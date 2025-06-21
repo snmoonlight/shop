@@ -1,0 +1,61 @@
+body {
+    background: #2c2c2c;
+}
+
+th {
+    margin: 10px;
+    padding: 10px;
+}
+
+td {
+    margin: 10px;
+    padding: 10px;
+}
+
+button {
+    margin: 20px;
+    padding: 20px;
+}
+
+.two {
+    background-color: #d4a98e;
+    margin: 20px;
+    padding: 20px;
+}
+
+.one {
+    margin: 20px;
+    padding: 20px;
+    background-color: #d4a98e;
+}
+
+aside h3 {
+    margin: 20px;
+    font-size: 40px;
+    color: #fff;
+}
+
+aside ul {list-style: none}
+
+aside a {
+    text-decoration: none;
+}
+
+aside ul li {
+    color: #fff;
+    display: block;
+    margin-top: 10px;
+    transition: transform .5s ease;
+}
+
+aside ul li:hover, aside ul a:hover {
+    color: #eb5959;
+    text-decoration: none;
+    transform: scale(1.01);
+}
+
+form {
+    margin-left: 32%;
+    width: 500px;
+    margin-top: 50px;
+}
